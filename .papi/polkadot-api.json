@@ -3,7 +3,7 @@
   "descriptorPath": ".papi/descriptors",
   "entries": {
     "polkadot": {
-      "wsUrl": "wss://rpc.helikon.io/polkadot",
+      "wsUrl": "wss://rpc.polkadot.io",
       "metadata": ".papi/metadata/polkadot.scale"
     }
   }
